@@ -1,0 +1,18 @@
+C:\Users\Enel\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Enel\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Enel\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Enel\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Enel\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\Enel\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Enel\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\Enel\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Enel\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\PruebaConsoleApplication\bin\Debug\PruebaConsoleApplication.exe.config
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\PruebaConsoleApplication\bin\Debug\PruebaConsoleApplication.exe
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\PruebaConsoleApplication\bin\Debug\PruebaConsoleApplication.pdb
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\PruebaConsoleApplication\obj\Debug\PruebaConsoleApplication.exe
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\PruebaConsoleApplication\obj\Debug\PruebaConsoleApplication.pdb
+C:\Users\Enel\Documents\Visual Studio 2012\Projects\Aplicada I\AplicadaI-2014-2\PruebaConsoleApplication\obj\Debug\PruebaConsoleApplication.csprojResolveAssemblyReference.cache
